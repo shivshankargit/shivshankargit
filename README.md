@@ -3,7 +3,7 @@
 Fullstack developer who breaks things to understand them.
 
 Interned at a startup where I shipped a real-time collaborative editor
-with proposal-based workflows and role-based access — built with React,
+with proposal-based workflows and role-based access built with React,
 TypeScript, Tiptap, and Yjs, alongside a team of 3.
 
 Interested in AI, scalable systems, and open source. Currently looking
