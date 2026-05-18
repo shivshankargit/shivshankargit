@@ -7,7 +7,7 @@ with proposal-based workflows and role-based access built with React,
 TypeScript, Tiptap, and Yjs, alongside a team of 3.
 
 Interested in AI, scalable systems, and open source. Currently looking
-to learn from and contribute to OSS projects that solve real problems.
+to learn from and contribute to OSS projects that does something interesting.
 
 Happiest when there's a terminal open.
 
